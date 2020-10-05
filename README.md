@@ -17,15 +17,16 @@ We perform the DJP-MMD in Domain Adaptive Neural Networks in [ Office-Caltech10]
 
 ## Citation
 
-This code is corresponding to our [paper](https://arxiv.org/pdf/1912.00320) below:
+This code is corresponding to our [paper](https://ieeexplore.ieee.org/document/9207365) below:
 
 ```
 @Inproceedings{wenz20djpmmd,
   title={Discriminative Joint Probability Maximum Mean Discrepancy (DJP-MMD) for Domain Adaptation},
-  author={Zhang, Wen and Wu, Dongrui},
-  booktitle={Int'l Joint Conf. on Neural Networks, IJCNN},
+  author={Wen, Zhang and Dongrui Wu},
+  booktitle={Proc. Int'l Joint Conf. on Neural Networks},
   year={2020},
   month=jul,
+  pages={1--8},
   address={Glasgow, UK}
 }
 ```
