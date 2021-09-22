@@ -21,8 +21,8 @@ This code is corresponding to our [paper](https://ieeexplore.ieee.org/document/9
 
 ```
 @Inproceedings{wenz20djpmmd,
-  title={Discriminative Joint Probability Maximum Mean Discrepancy (DJP-MMD) for Domain Adaptation},
-  author={Wen, Zhang and Dongrui Wu},
+  title={Discriminative Joint Probability Maximum Mean Discrepancy ({DJP-MMD}) for Domain Adaptation},
+  author={Zhang, Wen and Wu, Dongrui},
   booktitle={Proc. Int'l Joint Conf. on Neural Networks},
   year={2020},
   month=jul,
@@ -31,5 +31,5 @@ This code is corresponding to our [paper](https://ieeexplore.ieee.org/document/9
 }
 ```
 
-Please cite our paper if you like or use our work for your research, thank you very much!
+Please cite our paper if you like or use our work for your research, thanks!
 
